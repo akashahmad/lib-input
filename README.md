@@ -1,9 +1,9 @@
 ## Available Scripts
 
 ````
-npm i @klinkee/test-component
+npm i full-test-component-full
 
 OR
 
-yarn add @klinkee/test-component
+yarn add full-test-component-full
 ````
