@@ -1,4 +1,4 @@
-## Available Scripts
+## Installation
 
 ````
 npm i full-test-component-full
