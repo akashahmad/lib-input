@@ -1,6 +1,6 @@
 {
-    "name": "@klinkee/test-component",
-    "version": "0.0.3",
+    "name": "full-test-component-full",
+    "version": "0.0.0",
     "description": "Test Component",
     "main": "lib/index.js",
     "types": "lib",
